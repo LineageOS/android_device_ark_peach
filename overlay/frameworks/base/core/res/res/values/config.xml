@@ -173,6 +173,7 @@
     <!-- Is the notification LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveNotificationLed">true</bool>
 
+<<<<<<< HEAD
     <!-- enable doze powersaving mode -->
     <bool name="config_enableAutoPowerModes">true</bool>
     <string name="config_dozeComponent">com.android.systemui/com.android.systemui.doze.DozeService</string>
@@ -200,4 +201,13 @@
 	<!-- The RadioAccessFamilies supported by the device.
          Empty is viewed as "all". -->
 <string translatable="false" name="config_radio_access_family">GSM|GPRS|EDGE|WCDMA|LTE</string>
+
+    <!-- Default list of files pinned by the Pinner Service -->
+    <string-array translatable="false" name="config_defaultPinnerServiceFiles">
+        <item>"/system/framework/arm/boot-framework.oat"</item>
+        <item>"/system/framework/oat/arm/services.odex"</item>
+        <item>"/system/framework/arm/boot.oat"</item>
+        <item>"/system/framework/arm/boot-core-libart.oat"</item>
+   </string-array>
+
 </resources>
