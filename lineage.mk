@@ -23,7 +23,7 @@ TARGET_OTA_ASSERT_DEVICE := peach,benefit,ark_benefit_a3,benefit_a3,a3,ark
 # Must define platform variant before including any common things
 TARGET_BOARD_PLATFORM_VARIANT := msm8916
 
-PRODUCT_NAME := cm_peach
+PRODUCT_NAME := lineage_peach
 BOARD_VENDOR := ark
 PRODUCT_DEVICE := peach
 
