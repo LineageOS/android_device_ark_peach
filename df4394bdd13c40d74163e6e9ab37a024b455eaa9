@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a437d4f_0fa4c555",
+        "filename": "lineage.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2017-01-19T22:16:25Z",
+      "side": 1,
+      "message": "Append new copyright, never replace.",
+      "range": {
+        "startLine": 1,
+        "startChar": 2,
+        "endLine": 1,
+        "endChar": 42
+      },
+      "revId": "df4394bdd13c40d74163e6e9ab37a024b455eaa9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
