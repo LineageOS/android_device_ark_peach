@@ -1,15 +1,29 @@
-Device Tree for ARK Benefit A3(peach)
-============================================================
-Basic   | Specification List
+Copyright (C) 2016 - The CyanogenMod Project
+
+Copyright (C) 2017 - The LineageOS Project
+
+Device configuration for ARK Benefit A3
+========================================================
+
+The ARK Benefit A3 (codenamed _"peach"_) is a mid-range smartphone from ARK.
+
+## Device specifications
+
+Basic   | Spec Sheet
 -------:|:-------------------------
+SoC     | Qualcomm MSM8916 Snapdragon 410
 CPU     | Quad-core 1.2 GHz ARM® Cortex™ A53
-CHIPSET | Qualcomm MSM8916 Snapdragon 410
-GPU     | Adreno 306
-Memory  | 1 GB
+GPU     | 400MHz Adreno 306
+Memory  | 1 GB RAM
 Shipped Android Version | 5.0.2
 Storage | 8 GB
-MicroSD | Up to 128 GB
-Battery | 2100 mAh (removable)
-Display | 720 x 1280 pixels, 5"
-Rear Camera  | 8.0 MP Dual-Flash
+MicroSD | Up to 32 GB
+Battery | Removable Li-Ion 2100mAh battery
+Dimensions | 134 x 67.2 x 9.4 mm
+Display | 720 x 1280 pixels, 5.0 inches
+Rear Camera | 8.0 MP Dual-Flash
 Front Camera | 2.0 MP
+
+## Device picture
+
+![ARK Benefit A3](s.4pda.to/YstukKsnuHhUm1njvPz2EoLfiFvZgz2z1bIDCwsA6Os9vssez10hwj.jpg?_=0 "ARK Benefit A3 in black")
