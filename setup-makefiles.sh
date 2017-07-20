@@ -17,7 +17,7 @@
 
 set -e
 
-export INITIAL_COPYRIGHT_YEAR=2016
+export INITIAL_COPYRIGHT_YEAR=2015
 
 # Required!
 DEVICE=peach
