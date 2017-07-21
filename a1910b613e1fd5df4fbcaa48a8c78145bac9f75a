@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2c3bd5bf_e16158bc",
+        "filename": "proprietary-files-qc.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2017-07-21T15:18:50Z",
+      "side": 1,
+      "message": "mpdecision on 8916?!?",
+      "revId": "a1910b613e1fd5df4fbcaa48a8c78145bac9f75a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
